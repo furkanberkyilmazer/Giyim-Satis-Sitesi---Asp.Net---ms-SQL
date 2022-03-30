@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPageAdmin.master.cs" Inherits="AdminPaneli_MasterPageAdmin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Login | Profi Admin</title>
+<link href="css/960.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/reset.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/text.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/login.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body> 
+<asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+<div class="container_16">
+  <div class="grid_6 prefix_5 suffix_5">
+   	  <h1>Admin Girişi - Login</h1>
+    	<div id="login">
+    	
+    	  <form id="form1" name="form1" method="post" action="">
+    	    <p>
+    	      <label><strong>E-Mail</strong>
+<input type="text" name="textfield" class="inputText" id="textfield" />
+    	      </label>
+  	      </p>
+    	    <p>
+    	      <label><strong>Şifre</strong>
+  <input type="password" name="textfield2" class="inputText" id="textfield2" />
+  	        </label>
+    	    </p>
+    		<a class="black_button" href="#"><span>&nbsp;Giriş&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></a>&nbsp;<label><input type="checkbox" name="checkbox" id="checkbox" />
+              Beni Hatırla</label>            
+    	  </form>
+		  <br clear="all" />
+    	</div>
+        <div id="forgot">
+        <a href="#" class="forgotlink"><span>Şifremi Unuttum</span></a></div>
+  </div>
+</div>
+</asp:ContentPlaceHolder>
+<br clear="all" />
+</body> 
+   
+        
+        
+</html>

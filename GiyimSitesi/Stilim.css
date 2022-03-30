@@ -1,0 +1,207 @@
+﻿.dvUyelikDis
+{
+    width: 1000px;
+    height: 100px;
+}
+.dvUyeSol
+{ 
+    width: 400px;
+    height: 100px;
+    float:left;
+}
+.dvUyeOrta
+{
+    width: 400px;
+    height: 100px;
+    float:left;
+}
+.dvUyeSağ
+{
+    width: 200px;
+    height: 100px;
+   
+}
+.uyeOl_satir
+{
+    width: 700px;
+    height: 25px;
+    
+}
+.uyeOl_sol
+{
+    font-family: 'comic Sans MS';
+    color: #0000FF;
+    font-size: 12px;
+    font-weight: bold;
+    width: 150px;
+    height: 25px;
+    float: left;
+}
+.uyeOl_sağ
+{
+    width: 300px;
+    height: 25px;
+   
+}
+.uyeOl_orta
+{
+    width: 250px;
+    height: 25px;
+    float: left;
+}
+.validation
+{
+    font-family: 'comic Sans MS';
+    font-size: 12px;
+    color: #FF0000;
+    font-weight: bold;
+}
+
+.dvKulDis
+{
+    width: 1000px;
+    height: 200px;
+}
+.dvKulSol
+{
+    width: 375px;
+    height: 200px;
+    float: left;
+}
+.dvKulOrta
+{
+    width: 375px;
+    height: 200px;
+    float: left;
+}
+.dvKulSağ
+{
+    width: 250px;
+    height: 200px;
+    float: left;
+}
+.kulSatir
+{
+    padding-top: 2px;
+    width: 250px;
+    height: 19px;
+} 
+.kulSutun1
+{
+    width: 80px;
+    height: 19px;
+    float: left;
+    font-size: 13px;
+    font-family: 'comic Sans MS';
+    color: #3366FF;
+    font-weight: bold;
+}
+.kulSutun2
+{
+    width: 170px;
+    height: 19px;
+    float: left;
+}
+.kulSutun3
+{
+    width: 80px;
+    height: 19px;
+    float: left;
+    font-size: 10px;
+    font-family: 'comic Sans MS';
+    color: #3366FF;
+    font-weight: bold;
+}
+
+.sifremiUnuttum
+{
+    font-family: 'comic Sans MS';
+    font-size: 13px;
+    font-weight: bold;
+    color: #333333;
+    text-align:center;
+}
+
+#profil_butonlar
+{
+    width: 670px;
+    height: 25px;
+    padding-bottom:20px;    
+}
+#profil_butonlar ul
+{
+    list-style-type: none;
+}
+#profil_butonlar ul li
+{
+    float:left;
+}
+#profil_butonlar ul li a
+{
+    float: left;
+    font-family: 'comic Sans MS';
+    font-size: 16px;
+    font-weight: bold;
+    color: #0000FF;
+    text-align: center;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 10px;
+}
+#profil_butonlar ul li a:hover
+{
+    color: #3366CC;
+}
+#kul_bilgi
+{
+    width:800px;
+    height:auto;
+}
+#profil_resim
+{
+    width: 100px;
+    height: 120px;
+    padding-left: 300px;
+}
+#profil_adSoyad
+{
+    font-family: 'comic Sans MS';
+    font-size: 12px;
+    font-weight: bold;
+    color: #6699FF;
+    width:100px;
+    padding-left: 300px;
+}
+
+.profil_satir
+{
+    font-family: 'comic Sans MS';
+    font-size: 13px;
+    font-weight: bold;
+    color: #0066FF;
+    padding-left: 200px;
+    padding-bottom:10px;
+}
+.dvUyelikDis
+{
+    width: 1000px;
+    height: 100px;
+}
+.dvUyeSol
+{ 
+    width: 400px;
+    height: 100px;
+    float:left;
+}
+.dvUyeOrta
+{
+    width: 400px;
+    height: 100px;
+    float:left;
+}
+.dvUyeSağ
+{ 
+    width: 200px;
+    height: 100px;
+    float:left;
+}
